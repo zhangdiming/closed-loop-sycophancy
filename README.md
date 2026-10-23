@@ -91,6 +91,16 @@ The GenEval prompts and facts are derived from GenEval (Ghosh et al., 2023), the
 2024); obtain the original DPG-Bench file from the ELLA repository. The prompts in `code/data/pub_prompts/` are copied from
 the released code of UniCorn and OmniVerifier and remain under their original licences.
 
-## Licence and citation
+## Licence
 
-Licence: to be added. Citation: to be added on publication.
+- **Code** (`code/**/*.py`, `paper/scripts/`): MIT License, see [`LICENSE`](LICENSE).
+- **Data and analysis outputs** (`code/data/human/`, `code/data/audit/`, `code/data/train_prompts.jsonl`,
+  `paper/data/ci/`, `paper/figures/assets/`): Creative Commons Attribution 4.0 International (CC BY 4.0), see
+  [`LICENSE-DATA`](LICENSE-DATA).
+- **Third-party material** keeps its original licence: the GenEval prompts underlying `code/data/prompts.jsonl` and
+  `code/data/geneval_metadata.jsonl`, the DPG-Bench prompts underlying `code/data/prompts_dpg.jsonl`, and the
+  verification prompts in `code/data/pub_prompts/`.
+
+## Citation
+
+To be added on publication.

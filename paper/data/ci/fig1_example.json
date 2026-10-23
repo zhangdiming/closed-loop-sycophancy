@@ -1,0 +1,15 @@
+{
+ "image": "ge_0416_s1.png",
+ "fid": "ge_0416_f2",
+ "judge": "bagel",
+ "p_yes": {
+  "fresh": 0.09535219462272433,
+  "generic request": 0.16451855971736923,
+  "closed loop": 0.6513605697651905,
+  "inline request": 0.24539711060492822,
+  "instruction to ignore": 0.4089092699305814,
+  "mismatched request": 0.3208107725125877,
+  "contradicting request": 0.08509862934418819
+ },
+ "note": "BAGEL has no chat roles, so its request-without-authorship context is its closed loop. Source: runs/judge/bagel__bagel* (code/bootstrap_ci.cond_of)."
+}

@@ -1,0 +1,29 @@
+{
+ "gen": "lumina",
+ "source": "runs/human/lumina_todo_flagged.json (index order)",
+ "source_sha256": "28ce197efb37e1eba629176dd49f2b7c0b4662d599db1567d3d9fb8b60df0fb9",
+ "annotator": "second annotator (independent, blind)",
+ "annotation_type": "human_blind",
+ "tool": "labeling-kit/blind/label.html (original-resolution images, no prior labels shown)",
+ "exported_at": "2026-10-15T06:51:20.419Z",
+ "sampling": "kit positions after the first annotator's 301 (seed-2026 shuffle); the export also carried the first annotator's labels from the same browser, removed here",
+ "labels": {
+  "1": "violated",
+  "6": "violated",
+  "11": "satisfied"
+ },
+ "timing": {
+  "1": {
+   "ms": 43522,
+   "at": "2026-10-15T06:44:34.944Z"
+  },
+  "6": {
+   "ms": 2491,
+   "at": "2026-10-15T06:46:48.981Z"
+  },
+  "11": {
+   "ms": 2825,
+   "at": "2026-10-15T06:41:46.934Z"
+  }
+ }
+}

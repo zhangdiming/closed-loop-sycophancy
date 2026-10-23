@@ -1,0 +1,262 @@
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  1.62it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.64it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:01<00:00,  1.63it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.97it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.83it/s]
+qwen3vl8b on round0: 0 answers in 0s -> runs/repair/bagel__bagel_dqt/oracle/qwen3vl8b__round0.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  1.53it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.55it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:01<00:00,  1.54it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.88it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.74it/s]
+qwen3vl8b on round1: 0 answers in 0s -> runs/repair/bagel__bagel_dqt/oracle/qwen3vl8b__round1.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  1.62it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.65it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:01<00:00,  1.65it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.97it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.84it/s]
+qwen3vl8b on round2: 0 answers in 0s -> runs/repair/bagel__bagel_dqt/oracle/qwen3vl8b__round2.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  1.65it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.67it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:01<00:00,  1.62it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.91it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.80it/s]
+qwen3vl8b on round3: 0 answers in 0s -> runs/repair/bagel__bagel_dqt/oracle/qwen3vl8b__round3.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  1.68it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.69it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:01<00:00,  1.69it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  2.02it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.88it/s]
+qwen3vl8b on round0: 0 answers in 0s -> runs/repair/bagel__bagel__ctx_dqt/oracle/qwen3vl8b__round0.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  1.54it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.59it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:01<00:00,  1.62it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.97it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.81it/s]
+qwen3vl8b on round1: 0 answers in 0s -> runs/repair/bagel__bagel__ctx_dqt/oracle/qwen3vl8b__round1.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  1.54it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.54it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:01<00:00,  1.57it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.90it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.75it/s]
+qwen3vl8b on round2: 0 answers in 0s -> runs/repair/bagel__bagel__ctx_dqt/oracle/qwen3vl8b__round2.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:02,  1.50it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.51it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:01<00:00,  1.58it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.92it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.76it/s]
+qwen3vl8b on round3: 0 answers in 0s -> runs/repair/bagel__bagel__ctx_dqt/oracle/qwen3vl8b__round3.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  1.57it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.57it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:01<00:00,  1.60it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.93it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.79it/s]
+qwen3vl8b on round0: 0 answers in 0s -> runs/repair/janus7b__janus7b_dqt/oracle/qwen3vl8b__round0.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:02,  1.50it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.50it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:01<00:00,  1.53it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.86it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.71it/s]
+qwen3vl8b on round1: 0 answers in 0s -> runs/repair/janus7b__janus7b_dqt/oracle/qwen3vl8b__round1.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  1.50it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.51it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:01<00:00,  1.58it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.94it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.77it/s]
+qwen3vl8b on round2: 0 answers in 0s -> runs/repair/janus7b__janus7b_dqt/oracle/qwen3vl8b__round2.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  1.51it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.51it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:01<00:00,  1.55it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.86it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.72it/s]
+qwen3vl8b on round3: 0 answers in 0s -> runs/repair/janus7b__janus7b_dqt/oracle/qwen3vl8b__round3.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  1.57it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.51it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:01<00:00,  1.51it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.83it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.70it/s]
+qwen3vl8b on round0: 0 answers in 0s -> runs/repair/janus7b__janus7b__ctx_dqt/oracle/qwen3vl8b__round0.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  1.62it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.62it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:01<00:00,  1.65it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.99it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.84it/s]
+qwen3vl8b on round1: 0 answers in 0s -> runs/repair/janus7b__janus7b__ctx_dqt/oracle/qwen3vl8b__round1.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:02,  1.48it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.48it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:01<00:00,  1.55it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.89it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.73it/s]
+qwen3vl8b on round2: 0 answers in 0s -> runs/repair/janus7b__janus7b__ctx_dqt/oracle/qwen3vl8b__round2.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  1.62it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.61it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:01<00:00,  1.64it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.99it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.84it/s]
+qwen3vl8b on round3: 0 answers in 0s -> runs/repair/janus7b__janus7b__ctx_dqt/oracle/qwen3vl8b__round3.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  1.62it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.62it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:01<00:00,  1.65it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  2.00it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.85it/s]
+qwen3vl8b on round0: 0 answers in 0s -> runs/repair/omnigen2__omnigen2_dqt/oracle/qwen3vl8b__round0.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:02,  1.48it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.48it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:01<00:00,  1.56it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.90it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.73it/s]
+qwen3vl8b on round1: 0 answers in 0s -> runs/repair/omnigen2__omnigen2_dqt/oracle/qwen3vl8b__round1.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  1.60it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.60it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:01<00:00,  1.63it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.97it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.82it/s]
+qwen3vl8b on round2: 0 answers in 0s -> runs/repair/omnigen2__omnigen2_dqt/oracle/qwen3vl8b__round2.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  1.62it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.61it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:01<00:00,  1.56it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.89it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.76it/s]
+qwen3vl8b on round3: 0 answers in 0s -> runs/repair/omnigen2__omnigen2_dqt/oracle/qwen3vl8b__round3.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:02,  1.26it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.27it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:02<00:00,  1.33it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.59it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.47it/s]
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+qwen3vl8b on round0: 860 answers in 181s -> runs/repair/omnigen2__omnigen2__ctx_dqt/oracle/qwen3vl8b__round0.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:01,  1.59it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.60it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:01<00:00,  1.62it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.94it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.80it/s]
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+qwen3vl8b on round1: 104 answers in 23s -> runs/repair/omnigen2__omnigen2__ctx_dqt/oracle/qwen3vl8b__round1.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:02,  1.32it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.41it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:02<00:00,  1.48it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.80it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.64it/s]
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+qwen3vl8b on round2: 25 answers in 6s -> runs/repair/omnigen2__omnigen2__ctx_dqt/oracle/qwen3vl8b__round2.jsonl
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:02,  1.38it/s]
+Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.38it/s]
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:02<00:00,  1.42it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.71it/s]
+Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.58it/s]
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+qwen3vl8b on round3: 3 answers in 1s -> runs/repair/omnigen2__omnigen2__ctx_dqt/oracle/qwen3vl8b__round3.jsonl
+
+=== bagel__bagel_dqt: 280 prompts, rounds ['round0', 'round1', 'round2', 'round3']
+round    n_active verifier_ok oracle_ok(all) fact_acc  (oracle view of the image the loop holds after this round)
+round0        280       0.646          0.743    0.908   (n_oracle=280)
+round1         99       0.455          0.843    0.945   (n_oracle=280)
+round2         54       0.241          0.875    0.956   (n_oracle=280)
+round3         41       0.244          0.886    0.961   (n_oracle=280)
+
+=== bagel__bagel__ctx_dqt: 280 prompts, rounds ['round0', 'round1', 'round2', 'round3']
+round    n_active verifier_ok oracle_ok(all) fact_acc  (oracle view of the image the loop holds after this round)
+round0        280       0.896          0.743    0.908   (n_oracle=280)
+round1         29       0.621          0.789    0.924   (n_oracle=280)
+round2         11       0.364          0.807    0.929   (n_oracle=280)
+round3          7       0.286          0.807    0.930   (n_oracle=280)
+
+=== janus7b__janus7b_dqt: 280 prompts, rounds ['round0', 'round1', 'round2', 'round3']
+round    n_active verifier_ok oracle_ok(all) fact_acc  (oracle view of the image the loop holds after this round)
+round0        280       0.857          0.818    0.919   (n_oracle=280)
+round1         40       0.325          0.846    0.935   (n_oracle=280)
+round2         27       0.370          0.868    0.946   (n_oracle=280)
+round3         17       0.176          0.864    0.943   (n_oracle=280)
+
+=== janus7b__janus7b__ctx_dqt: 280 prompts, rounds ['round0', 'round1', 'round2', 'round3']
+round    n_active verifier_ok oracle_ok(all) fact_acc  (oracle view of the image the loop holds after this round)
+round0        280       0.882          0.818    0.919   (n_oracle=280)
+round1         33       0.788          0.843    0.934   (n_oracle=280)
+round2          7       0.714          0.850    0.938   (n_oracle=280)
+round3          2       0.000          0.846    0.936   (n_oracle=280)
+
+=== omnigen2__omnigen2_dqt: 280 prompts, rounds ['round0', 'round1', 'round2', 'round3']
+round    n_active verifier_ok oracle_ok(all) fact_acc  (oracle view of the image the loop holds after this round)
+round0        280       0.775          0.796    0.919   (n_oracle=280)
+round1         63       0.444          0.854    0.939   (n_oracle=280)
+round2         35       0.429          0.889    0.955   (n_oracle=280)
+round3         20       0.450          0.900    0.963   (n_oracle=280)
+
+=== omnigen2__omnigen2__ctx_dqt: 280 prompts, rounds ['round0', 'round1', 'round2', 'round3']
+round    n_active verifier_ok oracle_ok(all) fact_acc  (oracle view of the image the loop holds after this round)
+round0        280       0.886          0.796    0.919   (n_oracle=280)
+round1         32       0.750          0.825    0.928   (n_oracle=280)
+round2          8       0.875          0.843    0.936   (n_oracle=280)
+round3          1       0.000          0.843    0.936   (n_oracle=280)

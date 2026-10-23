@@ -1,0 +1,7 @@
+labels=aikit; judge=bagel; own=bagel; others=['janus7b', 'showo2_7b']; conditions=['fresh', 'ctx-assistant_nocaption', 'ctx', 'ctx-caption_inline']; matched across conditions
+condition                             own detection         Δ own vs fresh       others detection      Δ others vs fresh   FA own   FA oth
+fresh                        0.961 [0.92,0.99]                      - 0.926 [0.90,0.95]                      -    0.006    0.022
+ctx-assistant_nocaption      0.922 [0.87,0.97] -0.04 [-0.08,+0.00] 0.928 [0.90,0.95] +0.00 [-0.02,+0.02]    0.008    0.017
+ctx                          0.453 [0.35,0.55] -0.51 [-0.60,-0.41] 0.315 [0.26,0.37] -0.61 [-0.67,-0.56]    0.000    0.001
+ctx-caption_inline           0.773 [0.70,0.84] -0.19 [-0.26,-0.12] 0.650 [0.60,0.71] -0.28 [-0.33,-0.23]    0.003    0.005
+n: {'oth_ctx-assistant_nocaption_viol': 594, 'oth_ctx-caption_inline_viol': 594, 'oth_ctx_viol': 594, 'oth_fresh_viol': 594, 'own_ctx-assistant_nocaption_viol': 128, 'own_ctx-caption_inline_viol': 128, 'own_ctx_viol': 128, 'own_fresh_viol': 128}

@@ -1,0 +1,48 @@
+{
+ "gen": "blip3o",
+ "source": "blip3o_todo_flagged.json (index order)",
+ "source_sha256": "7aa3527d632b7984945fcbbb4eb3cf0bdd0803ed42de9eeabb70d84c597da601",
+ "annotator": "person3",
+ "annotation_type": "human_blind_second",
+ "tool": "labeling-kit/kappa/label.html (original-resolution images, no prior labels shown)",
+ "exported_at": "2026-10-15T10:44:10.379Z",
+ "labels": {
+  "1": "violated",
+  "2": "violated",
+  "3": "violated",
+  "5": "satisfied",
+  "6": "satisfied",
+  "7": "satisfied",
+  "11": "satisfied"
+ },
+ "timing": {
+  "1": {
+   "ms": 1767,
+   "at": "2026-10-15T10:40:07.632Z"
+  },
+  "2": {
+   "ms": 805,
+   "at": "2026-10-15T10:37:44.297Z"
+  },
+  "3": {
+   "ms": 834,
+   "at": "2026-10-15T10:39:22.323Z"
+  },
+  "5": {
+   "ms": 1681,
+   "at": "2026-10-15T10:42:02.955Z"
+  },
+  "6": {
+   "ms": 1792,
+   "at": "2026-10-15T10:41:55.520Z"
+  },
+  "7": {
+   "ms": 4415,
+   "at": "2026-10-15T10:42:15.356Z"
+  },
+  "11": {
+   "ms": 2112,
+   "at": "2026-10-15T10:36:04.782Z"
+  }
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "annotator_agreement": {
+  "n_both": 275,
+  "agree": 0.9236363636363636,
+  "kappa": 0.7029626581627403,
+  "kappa_ci95": [
+   0.5766091573228072,
+   0.8136106927948697
+  ]
+ },
+ "entailment": {
+  "oracle_questions": 6189,
+  "oracle_keep": 0.43658103086120537,
+  "qwen7b_questions": 4309,
+  "qwen7b_agree_with_oracle": 0.9401253190995591,
+  "qwen7b_keep": 0.4325829658853562,
+  "oracle_keep_same_questions": 0.43815270364353676,
+  "omnigen2_self_questions": 1086,
+  "omnigen2_self_agree_with_oracle": 0.91804788213628
+ },
+ "repair_questions": {
+  "prompts": 280,
+  "mean": 2.7642857142857142,
+  "min": 1,
+  "max": 10
+ },
+ "repair_start": {
+  "bagel__bagel__ctx": {
+   "all_ok": 0.7428571428571429,
+   "fact_acc": 0.9080357142857143
+  },
+  "omnigen2__omnigen2__ctx_dqt": {
+   "all_ok": 0.7964285714285714,
+   "fact_acc": 0.9190476190476192
+  },
+  "janus7b__janus7b__ctx": {
+   "all_ok": 0.8178571428571428,
+   "fact_acc": 0.9193452380952382
+  },
+  "showo2_7b__showo2_7b__ctx": {
+   "all_ok": 0.5642857142857143,
+   "fact_acc": 0.818452380952381
+  }
+ },
+ "qwen3b_gsys_vs_omnigen2": {
+  "ctx": {
+   "n": 2537,
+   "agree": 0.9814741821048483
+  },
+  "ctx-assistant_cf": {
+   "n": 2537,
+   "agree": 0.9862041781631848
+  },
+  "ctx-assistant_mismatch": {
+   "n": 2537,
+   "agree": 0.9921166732361056
+  },
+  "ctx-assistant_nocaption": {
+   "n": 2537,
+   "agree": 0.9929050059124951
+  },
+  "ctx-caption_inline": {
+   "n": 2537,
+   "agree": 0.9771383523847064
+  },
+  "ctx-user_prompt": {
+   "n": 2537,
+   "agree": 0.9519117067402444
+  },
+  "fresh": {
+   "n": 2537,
+   "agree": 0.9862041781631848
+  }
+ },
+ "coverage_exclusions": {
+  "bagel": {
+   "extra_closed_loop_facts": 224,
+   "violated_human": 19
+  },
+  "blip3o": {
+   "extra_closed_loop_facts": 152,
+   "violated_human": 3
+  },
+  "showo2_7b": {
+   "extra_closed_loop_facts": 88,
+   "violated_human": 0
+  }
+ },
+ "exhaustive_timing": {
+  "facts_timed": 1400,
+  "total_min": 55.8815,
+  "median_s": 1.199
+ },
+ "dpo_training": {
+  "prompts": 950,
+  "facts": 2500,
+  "by_tag": {
+   "two_object": 200,
+   "counting": 150,
+   "colors": 200,
+   "position": 200,
+   "color_attr": 200
+  }
+ },
+ "image_tokens": {
+  "janus7b": [
+   576
+  ],
+  "showo2_7b": [
+   730
+  ]
+ }
+}

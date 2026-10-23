@@ -1,0 +1,60 @@
+
+== bagel: 475 labelled own images, 96 flawed
+atomic_fresh  n= 475 parsed=1.00  det 0.906 [0.84,0.96]  FA 0.021  det@FA5 0.96  AUROC 0.984 [0.97,1.00]  mean score flawed/correct 0.67/0.97
+atomic_cl     n= 475 parsed=1.00  det 0.490 [0.37,0.62]  FA 0.008  det@FA5 0.78  AUROC 0.962 [0.94,0.98]  mean score flawed/correct 0.82/0.98
+ug_out        n= 475 parsed=1.00  det 0.438 [0.31,0.55]  FA 0.005  det@FA5 0.72  AUROC 0.916 [0.87,0.95]  mean score flawed/correct 0.56/0.94
+ov            n= 475 parsed=1.00  det 0.312 [0.20,0.42]  FA 0.008  det@FA5 nan  AUROC 0.652 [0.59,0.71]  mean score flawed/correct 0.69/0.99
+uc            n= 475 parsed=1.00  det 0.469 [0.37,0.58]  FA 0.055  det@FA5 0.43  AUROC 0.698 [0.61,0.77]  mean score flawed/correct 5.78/8.67
+cotv          n= 461 parsed=0.97  det 0.452 [0.35,0.56]  FA 0.014  det@FA5 0.46  AUROC 0.723 [0.66,0.78]  mean score flawed/correct 0.58/0.99
+dq_fresh      n= 475 parsed=1.00  det 1.000 [1.00,1.00]  FA 0.960  det@FA5 0.28  AUROC 0.779 [0.72,0.84]  mean score flawed/correct 0.52/0.66
+dq_req        n= 475 parsed=1.00  det 1.000 [1.00,1.00]  FA 0.929  det@FA5 0.47  AUROC 0.830 [0.78,0.88]  mean score flawed/correct 0.52/0.70
+dq_cl         n= 475 parsed=1.00  det 0.990 [0.96,1.00]  FA 0.947  det@FA5 0.14  AUROC 0.653 [0.59,0.72]  mean score flawed/correct 0.61/0.67
+dq_ext        n= 475 parsed=1.00  det 0.990 [0.97,1.00]  FA 0.792  det@FA5 0.36  AUROC 0.782 [0.73,0.84]  mean score flawed/correct 0.61/0.76
+dq_fresh_ent  n= 475 parsed=1.00  det 0.885 [0.82,0.94]  FA 0.082  det@FA5 0.81  AUROC 0.949 [0.92,0.97]  mean score flawed/correct 0.60/0.94
+dq_req_ent    n= 475 parsed=1.00  det 0.708 [0.60,0.80]  FA 0.018  det@FA5 0.83  AUROC 0.937 [0.90,0.97]  mean score flawed/correct 0.64/0.96
+dq_cl_ent     n= 475 parsed=1.00  det 0.448 [0.33,0.58]  FA 0.013  det@FA5 0.52  AUROC 0.866 [0.81,0.92]  mean score flawed/correct 0.83/0.98
+dq_ext_ent    n= 475 parsed=1.00  det 0.885 [0.81,0.95]  FA 0.164  det@FA5 0.75  AUROC 0.936 [0.90,0.97]  mean score flawed/correct 0.67/0.93
+dq_fresh_sent n= 475 parsed=1.00  det 0.938 [0.88,0.98]  FA 0.282  det@FA5 0.30  AUROC 0.892 [0.85,0.93]  mean score flawed/correct 0.62/0.87
+dq_req_sent   n= 475 parsed=1.00  det 0.781 [0.69,0.86]  FA 0.153  det@FA5 0.64  AUROC 0.903 [0.87,0.94]  mean score flawed/correct 0.64/0.90
+dq_cl_sent    n= 475 parsed=1.00  det 0.583 [0.47,0.69]  FA 0.137  det@FA5 0.23  AUROC 0.824 [0.77,0.87]  mean score flawed/correct 0.79/0.92
+mean questions kept per image after the entailment filter: {'dq_fresh': 2.783157894736842, 'dq_fresh_sent': 4.277894736842105, 'dq_req': 2.783157894736842, 'dq_req_sent': 4.277894736842105, 'dq_cl': 2.783157894736842, 'dq_cl_sent': 4.277894736842105, 'dq_ext': 4.347368421052631}
+
+== janus7b: 472 labelled own images, 68 flawed
+atomic_fresh  n= 472 parsed=1.00  det 0.706 [0.58,0.82]  FA 0.007  det@FA5 0.91  AUROC 0.970 [0.94,0.99]  mean score flawed/correct 0.69/0.99
+atomic_cl     n= 472 parsed=1.00  det 0.632 [0.52,0.76]  FA 0.007  det@FA5 0.91  AUROC 0.963 [0.93,0.99]  mean score flawed/correct 0.74/0.98
+ug_out        n= 472 parsed=1.00  det 0.162 [0.07,0.28]  FA 0.002  det@FA5 0.29  AUROC 0.730 [0.65,0.81]  mean score flawed/correct 0.79/0.94
+ov            n= 472 parsed=1.00  det 0.103 [0.03,0.20]  FA 0.030  det@FA5 nan  AUROC 0.537 [0.50,0.59]  mean score flawed/correct 0.90/0.97
+uc            n= 355 parsed=0.75  det 0.254 [0.14,0.39]  FA 0.071  det@FA5 0.25  AUROC 0.496 [0.42,0.59]  mean score flawed/correct 7.46/8.90
+cotv          n= 470 parsed=1.00  det 0.015 [0.00,0.05]  FA 0.010  det@FA5 0.06  AUROC 0.456 [0.40,0.52]  mean score flawed/correct 0.95/0.94
+dq_fresh      n= 472 parsed=1.00  det 0.794 [0.67,0.90]  FA 0.379  det@FA5 0.16  AUROC 0.751 [0.68,0.82]  mean score flawed/correct 0.74/0.88
+dq_req        n= 472 parsed=1.00  det 0.544 [0.41,0.69]  FA 0.416  det@FA5 0.03  AUROC 0.676 [0.60,0.76]  mean score flawed/correct 0.78/0.87
+dq_cl         n= 472 parsed=1.00  det 0.735 [0.60,0.85]  FA 0.386  det@FA5 0.10  AUROC 0.727 [0.66,0.79]  mean score flawed/correct 0.74/0.86
+dq_ext        n= 472 parsed=1.00  det 0.853 [0.74,0.94]  FA 0.507  det@FA5 0.25  AUROC 0.782 [0.72,0.84]  mean score flawed/correct 0.78/0.89
+dq_fresh_ent  n= 472 parsed=1.00  det 0.676 [0.56,0.79]  FA 0.022  det@FA5 0.71  AUROC 0.908 [0.86,0.96]  mean score flawed/correct 0.67/0.99
+dq_req_ent    n= 472 parsed=1.00  det 0.103 [0.04,0.18]  FA 0.025  det@FA5 0.35  AUROC 0.766 [0.69,0.85]  mean score flawed/correct 0.91/0.98
+dq_cl_ent     n= 472 parsed=1.00  det 0.529 [0.40,0.66]  FA 0.027  det@FA5 0.50  AUROC 0.899 [0.85,0.95]  mean score flawed/correct 0.71/0.98
+dq_ext_ent    n= 472 parsed=1.00  det 0.603 [0.47,0.72]  FA 0.042  det@FA5 0.74  AUROC 0.890 [0.81,0.96]  mean score flawed/correct 0.77/0.98
+dq_fresh_sent n= 472 parsed=1.00  det 0.794 [0.67,0.90]  FA 0.379  det@FA5 0.16  AUROC 0.751 [0.68,0.82]  mean score flawed/correct 0.74/0.88
+dq_req_sent   n= 472 parsed=1.00  det 0.544 [0.41,0.69]  FA 0.416  det@FA5 0.03  AUROC 0.676 [0.60,0.76]  mean score flawed/correct 0.78/0.87
+dq_cl_sent    n= 472 parsed=1.00  det 0.735 [0.60,0.85]  FA 0.386  det@FA5 0.10  AUROC 0.727 [0.66,0.79]  mean score flawed/correct 0.74/0.86
+mean questions kept per image after the entailment filter: {'dq_fresh': 4.853813559322034, 'dq_fresh_sent': 7.398305084745763, 'dq_req': 4.853813559322034, 'dq_req_sent': 7.398305084745763, 'dq_cl': 4.853813559322034, 'dq_cl_sent': 7.398305084745763, 'dq_ext': 4.288135593220339}
+
+== omnigen2: 478 labelled own images, 76 flawed
+atomic_fresh  n= 478 parsed=1.00  det 0.789 [0.70,0.89]  FA 0.060  det@FA5 0.78  AUROC 0.958 [0.94,0.98]  mean score flawed/correct 0.68/0.94
+atomic_cl     n= 478 parsed=1.00  det 0.526 [0.41,0.64]  FA 0.007  det@FA5 0.75  AUROC 0.935 [0.90,0.97]  mean score flawed/correct 0.79/0.97
+ug_out        n= 478 parsed=1.00  det 0.434 [0.32,0.55]  FA 0.045  det@FA5 0.43  AUROC 0.827 [0.76,0.88]  mean score flawed/correct 0.45/0.75
+ov            n= 478 parsed=1.00  det 0.908 [0.83,0.96]  FA 0.697  det@FA5 nan  AUROC 0.606 [0.56,0.64]  mean score flawed/correct 0.09/0.30
+uc            n= 478 parsed=1.00  det 0.368 [0.25,0.48]  FA 0.017  det@FA5 0.38  AUROC 0.707 [0.63,0.78]  mean score flawed/correct 6.12/9.20
+cotv          n= 478 parsed=1.00  det 0.053 [0.01,0.11]  FA 0.000  det@FA5 nan  AUROC 0.526 [0.51,0.56]  mean score flawed/correct 0.95/1.00
+dq_fresh      n= 478 parsed=1.00  det 0.776 [0.67,0.88]  FA 0.214  det@FA5 0.46  AUROC 0.899 [0.86,0.93]  mean score flawed/correct 0.65/0.89
+dq_req        n= 478 parsed=1.00  det 0.618 [0.49,0.73]  FA 0.211  det@FA5 0.38  AUROC 0.844 [0.80,0.89]  mean score flawed/correct 0.63/0.89
+dq_cl         n= 478 parsed=1.00  det 0.513 [0.39,0.63]  FA 0.162  det@FA5 0.32  AUROC 0.815 [0.76,0.86]  mean score flawed/correct 0.79/0.92
+dq_ext        n= 478 parsed=1.00  det 0.908 [0.82,0.97]  FA 0.754  det@FA5 0.36  AUROC 0.761 [0.69,0.82]  mean score flawed/correct 0.62/0.76
+dq_fresh_ent  n= 478 parsed=1.00  det 0.750 [0.65,0.86]  FA 0.095  det@FA5 0.76  AUROC 0.941 [0.91,0.97]  mean score flawed/correct 0.65/0.92
+dq_req_ent    n= 478 parsed=1.00  det 0.553 [0.42,0.67]  FA 0.055  det@FA5 0.58  AUROC 0.846 [0.79,0.90]  mean score flawed/correct 0.66/0.93
+dq_cl_ent     n= 478 parsed=1.00  det 0.447 [0.33,0.56]  FA 0.030  det@FA5 0.68  AUROC 0.865 [0.81,0.92]  mean score flawed/correct 0.80/0.95
+dq_ext_ent    n= 478 parsed=1.00  det 0.789 [0.70,0.89]  FA 0.144  det@FA5 0.62  AUROC 0.919 [0.89,0.95]  mean score flawed/correct 0.68/0.91
+dq_fresh_sent n= 478 parsed=1.00  det 0.737 [0.63,0.84]  FA 0.097  det@FA5 0.75  AUROC 0.937 [0.91,0.97]  mean score flawed/correct 0.66/0.91
+dq_req_sent   n= 478 parsed=1.00  det 0.566 [0.45,0.68]  FA 0.077  det@FA5 0.61  AUROC 0.875 [0.82,0.92]  mean score flawed/correct 0.64/0.92
+dq_cl_sent    n= 478 parsed=1.00  det 0.434 [0.32,0.55]  FA 0.030  det@FA5 0.63  AUROC 0.857 [0.81,0.91]  mean score flawed/correct 0.81/0.96
+mean questions kept per image after the entailment filter: {'dq_fresh': 3.3535564853556483, 'dq_fresh_sent': 3.5523012552301254, 'dq_req': 3.3535564853556483, 'dq_req_sent': 3.5523012552301254, 'dq_cl': 3.3535564853556483, 'dq_cl_sent': 3.5523012552301254, 'dq_ext': 4.292887029288703}

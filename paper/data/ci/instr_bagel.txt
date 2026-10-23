@@ -1,0 +1,6 @@
+labels=human; judge=bagel; own=bagel; others=['janus7b', 'showo2_7b']; conditions=['fresh', 'ctx', 'ctx-assistant_instr']; matched across conditions
+condition                             own detection         Δ own vs fresh       others detection      Δ others vs fresh   FA own   FA oth
+fresh                        0.921 [0.87,0.97]                      - 0.899 [0.87,0.93]                      -    0.010    0.030
+ctx                          0.421 [0.32,0.52] -0.50 [-0.60,-0.40] 0.289 [0.24,0.34] -0.61 [-0.67,-0.56]    0.001    0.005
+ctx-assistant_instr          0.614 [0.52,0.71] -0.31 [-0.39,-0.22] 0.428 [0.38,0.48] -0.47 [-0.52,-0.42]    0.003    0.005
+n: {'oth_ctx-assistant_instr_viol': 682, 'oth_ctx_viol': 682, 'oth_fresh_viol': 682, 'own_ctx-assistant_instr_viol': 140, 'own_ctx_viol': 140, 'own_fresh_viol': 140}

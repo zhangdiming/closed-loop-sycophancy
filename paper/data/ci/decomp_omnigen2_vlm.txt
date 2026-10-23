@@ -1,0 +1,8 @@
+labels=vlm; judge=omnigen2; own=omnigen2; others=['janus7b', 'showo2_7b']; conditions=['fresh', 'ctx-assistant_nocaption', 'ctx', 'ctx-user_prompt', 'ctx-caption_inline']; matched across conditions
+condition                             own detection         Δ own vs fresh       others detection      Δ others vs fresh   FA own   FA oth
+fresh                        0.726 [0.64,0.81]                      - 0.829 [0.80,0.86]                      -    0.021    0.029
+ctx-assistant_nocaption      0.747 [0.66,0.83] +0.02 [-0.01,+0.05] 0.860 [0.83,0.89] +0.03 [+0.02,+0.05]    0.021    0.035
+ctx                          0.507 [0.41,0.60] -0.22 [-0.29,-0.14] 0.423 [0.38,0.47] -0.41 [-0.45,-0.36]    0.006    0.004
+ctx-user_prompt              0.568 [0.47,0.66] -0.16 [-0.24,-0.08] 0.455 [0.41,0.50] -0.37 [-0.42,-0.33]    0.006    0.004
+ctx-caption_inline           0.438 [0.34,0.54] -0.29 [-0.38,-0.20] 0.372 [0.33,0.42] -0.46 [-0.50,-0.41]    0.010    0.006
+n: {'oth_ctx-assistant_nocaption_viol': 937, 'oth_ctx-caption_inline_viol': 937, 'oth_ctx-user_prompt_viol': 937, 'oth_ctx_viol': 937, 'oth_fresh_viol': 937, 'own_ctx-assistant_nocaption_viol': 146, 'own_ctx-caption_inline_viol': 146, 'own_ctx-user_prompt_viol': 146, 'own_ctx_viol': 146, 'own_fresh_viol': 146}

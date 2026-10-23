@@ -1,0 +1,7 @@
+{
+ "_note": "Thresholds set on seed 0 so that a verifier rejects as many first images as the fresh ERASE / fresh GenEval-fact verifier (computed in-session from runs/repair/*/trace.jsonl round-0 verdicts; review rounds 41-42).",
+ "calibration_transfer_pno": {"bagel_geneval_facts": 0.133, "bagel_erase_questions": 0.077, "omnigen2_erase_questions": 0.195,
+   "seed0_rejections_matched": {"bagel_geneval_facts": [68, 68], "bagel_erase_questions": [99, 99], "omnigen2_erase_questions": [63, 63]}},
+ "unigen_matched_pyes": {"bagel": 0.8933, "omnigen2": 0.5929, "seed0_rejections_matched": {"bagel": [99, 99], "omnigen2": [63, 63]},
+   "unicorn_note": "integer scores; nearest cuts reject 44 or 147 (BAGEL) and 29 or 98 (OmniGen2) first images against 99 and 63, so UniCorn was not matched"}
+}

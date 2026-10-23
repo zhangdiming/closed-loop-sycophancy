@@ -1,0 +1,176 @@
+{
+ "bagel:own": {
+  "n_viol": 140,
+  "n_sat": 100,
+  "unparsed": 0.0,
+  "reason": {
+   "n_viol": 140,
+   "det_fresh": 0.9142857142857143,
+   "det_closed": 0.7857142857142857,
+   "change": -0.12857142857142856,
+   "change_ci": [
+    -0.18881118881118875,
+    -0.07092198581560283
+   ],
+   "fa_fresh": 0.02,
+   "fa_closed": 0.01
+  },
+  "first_token": {
+   "n_viol": 140,
+   "det_fresh": 0.9071428571428571,
+   "det_closed": 0.4,
+   "change": -0.5071428571428571,
+   "change_ci": [
+    -0.5960538853685263,
+    -0.4060095891903672
+   ],
+   "fa_fresh": 0.01,
+   "fa_closed": 0.01
+  }
+ },
+ "bagel:others": {
+  "n_viol": 200,
+  "n_sat": 200,
+  "unparsed": 0.0,
+  "reason": {
+   "n_viol": 200,
+   "det_fresh": 0.87,
+   "det_closed": 0.725,
+   "change": -0.14500000000000002,
+   "change_ci": [
+    -0.20707528654419846,
+    -0.08161564625850347
+   ],
+   "fa_fresh": 0.06,
+   "fa_closed": 0.025
+  },
+  "first_token": {
+   "n_viol": 200,
+   "det_fresh": 0.89,
+   "det_closed": 0.275,
+   "change": -0.615,
+   "change_ci": [
+    -0.6891242014185824,
+    -0.542099429608504
+   ],
+   "fa_fresh": 0.02,
+   "fa_closed": 0.0
+  }
+ },
+ "janus7b:own": {
+  "n_viol": 186,
+  "n_sat": 100,
+  "unparsed": 0.0,
+  "reason": {
+   "n_viol": 186,
+   "det_fresh": 0.6559139784946236,
+   "det_closed": 0.5268817204301075,
+   "change": -0.12903225806451613,
+   "change_ci": [
+    -0.20930232558139533,
+    -0.049477004152028194
+   ],
+   "fa_fresh": 0.0,
+   "fa_closed": 0.0
+  },
+  "first_token": {
+   "n_viol": 186,
+   "det_fresh": 0.7096774193548387,
+   "det_closed": 0.4946236559139785,
+   "change": -0.21505376344086025,
+   "change_ci": [
+    -0.3202379690481238,
+    -0.11474238875878218
+   ],
+   "fa_fresh": 0.0,
+   "fa_closed": 0.0
+  }
+ },
+ "janus7b:others": {
+  "n_viol": 200,
+  "n_sat": 100,
+  "unparsed": 0.0,
+  "reason": {
+   "n_viol": 200,
+   "det_fresh": 0.58,
+   "det_closed": 0.43,
+   "change": -0.14999999999999997,
+   "change_ci": [
+    -0.22885572139303484,
+    -0.07102997184964399
+   ],
+   "fa_fresh": 0.01,
+   "fa_closed": 0.01
+  },
+  "first_token": {
+   "n_viol": 200,
+   "det_fresh": 0.55,
+   "det_closed": 0.29,
+   "change": -0.26000000000000006,
+   "change_ci": [
+    -0.33816974088713225,
+    -0.19071551300932751
+   ],
+   "fa_fresh": 0.01,
+   "fa_closed": 0.01
+  }
+ },
+ "omnigen2:own": {
+  "n_viol": 107,
+  "n_sat": 100,
+  "unparsed": 0.0,
+  "reason": {
+   "n_viol": 107,
+   "det_fresh": 0.8598130841121495,
+   "det_closed": 0.5794392523364486,
+   "change": -0.28037383177570097,
+   "change_ci": [
+    -0.378657515902243,
+    -0.1875
+   ],
+   "fa_fresh": 0.01,
+   "fa_closed": 0.0
+  },
+  "first_token": {
+   "n_viol": 107,
+   "det_fresh": 0.8037383177570093,
+   "det_closed": 0.5514018691588785,
+   "change": -0.25233644859813087,
+   "change_ci": [
+    -0.34546304163126595,
+    -0.16345663265306123
+   ],
+   "fa_fresh": 0.0,
+   "fa_closed": 0.0
+  }
+ },
+ "omnigen2:others": {
+  "n_viol": 200,
+  "n_sat": 200,
+  "unparsed": 0.0,
+  "reason": {
+   "n_viol": 200,
+   "det_fresh": 0.77,
+   "det_closed": 0.47,
+   "change": -0.30000000000000004,
+   "change_ci": [
+    -0.3782484028371649,
+    -0.21938251327928432
+   ],
+   "fa_fresh": 0.075,
+   "fa_closed": 0.035
+  },
+  "first_token": {
+   "n_viol": 200,
+   "det_fresh": 0.85,
+   "det_closed": 0.405,
+   "change": -0.44499999999999995,
+   "change_ci": [
+    -0.5115261461240562,
+    -0.37499999999999994
+   ],
+   "fa_fresh": 0.03,
+   "fa_closed": 0.005
+  }
+ }
+}

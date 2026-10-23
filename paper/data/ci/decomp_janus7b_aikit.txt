@@ -1,0 +1,8 @@
+labels=aikit; judge=janus7b; own=janus7b; others=['showo2_7b']; conditions=['fresh', 'ctx-assistant_nocaption', 'ctx', 'ctx-user_prompt', 'ctx-caption_inline']; matched across conditions
+condition                             own detection         Δ own vs fresh       others detection      Δ others vs fresh   FA own   FA oth
+fresh                        0.762 [0.67,0.84]                      - 0.649 [0.58,0.71]                      -    0.001    0.003
+ctx-assistant_nocaption      0.757 [0.66,0.84] -0.01 [-0.07,+0.06] 0.632 [0.56,0.70] -0.02 [-0.05,+0.01]    0.002    0.004
+ctx                          0.508 [0.41,0.61] -0.25 [-0.35,-0.16] 0.427 [0.35,0.51] -0.22 [-0.28,-0.16]    0.002    0.003
+ctx-user_prompt              0.442 [0.35,0.54] -0.32 [-0.41,-0.24] 0.349 [0.28,0.42] -0.30 [-0.36,-0.24]    0.001    0.001
+ctx-caption_inline           0.050 [0.02,0.09] -0.71 [-0.79,-0.62] 0.165 [0.11,0.22] -0.48 [-0.55,-0.42]    0.000    0.001
+n: {'oth_ctx-assistant_nocaption_viol': 370, 'oth_ctx-caption_inline_viol': 370, 'oth_ctx-user_prompt_viol': 370, 'oth_ctx_viol': 370, 'oth_fresh_viol': 370, 'own_ctx-assistant_nocaption_viol': 181, 'own_ctx-caption_inline_viol': 181, 'own_ctx-user_prompt_viol': 181, 'own_ctx_viol': 181, 'own_fresh_viol': 181}

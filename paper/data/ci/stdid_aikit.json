@@ -1,0 +1,539 @@
+{
+ "bagel": {
+  "selfspec_std": {
+   "est": 0.08625743538039701,
+   "ci95": [
+    -0.0001973117549761677,
+    0.17819131261766766
+   ],
+   "ci90": [
+    0.01248081277719784,
+    0.16092729784443643
+   ]
+  },
+  "closedloop_std": {
+   "est": -0.594069935380397,
+   "ci95": [
+    -0.6510739302362221,
+    -0.5336914442862235
+   ],
+   "ci90": [
+    -0.642353899022357,
+    -0.5445638443166527
+   ]
+  },
+  "self_fresh_std": {
+   "est": 0.03427025457472544,
+   "ci95": [
+    -0.002867578173520285,
+    0.07214395814170459
+   ],
+   "ci90": [
+    0.0037702727489907126,
+    0.0661943262796347
+   ]
+  },
+  "_n": {
+   "oth_ctx_color": 140,
+   "oth_ctx_count": 317,
+   "oth_ctx_position": 200,
+   "oth_ctx_presence": 144,
+   "oth_fresh_color": 133,
+   "oth_fresh_count": 317,
+   "oth_fresh_position": 200,
+   "oth_fresh_presence": 140,
+   "own_ctx_color": 34,
+   "own_ctx_count": 16,
+   "own_ctx_position": 53,
+   "own_ctx_presence": 25,
+   "own_fresh_color": 34,
+   "own_fresh_count": 16,
+   "own_fresh_position": 53,
+   "own_fresh_presence": 25
+  },
+  "_pids": 231,
+  "_weights": {
+   "presence": 0.1953125,
+   "count": 0.125,
+   "color": 0.265625,
+   "position": 0.4140625
+  }
+ },
+ "bagel_vae": {
+  "selfspec_std": {
+   "est": 0.09105323762775686,
+   "ci95": [
+    -0.025004888933793774,
+    0.20567159747214112
+   ],
+   "ci90": [
+    -0.0070491911834568285,
+    0.18654612577331567
+   ]
+  },
+  "closedloop_std": {
+   "est": 0.09644676237224316,
+   "ci95": [
+    0.029582477842174475,
+    0.16352901374575993
+   ],
+   "ci90": [
+    0.04098469369482408,
+    0.15087099907586857
+   ]
+  },
+  "self_fresh_std": {
+   "est": -0.06755269970414199,
+   "ci95": [
+    -0.17353242649263512,
+    0.03553019859808329
+   ],
+   "ci90": [
+    -0.15614649461350447,
+    0.016251215192339272
+   ]
+  },
+  "_n": {
+   "oth_ctx_color": 110,
+   "oth_ctx_count": 220,
+   "oth_ctx_position": 169,
+   "oth_ctx_presence": 110,
+   "oth_fresh_color": 110,
+   "oth_fresh_count": 220,
+   "oth_fresh_position": 169,
+   "oth_fresh_presence": 110,
+   "own_ctx_color": 34,
+   "own_ctx_count": 16,
+   "own_ctx_position": 53,
+   "own_ctx_presence": 25,
+   "own_fresh_color": 34,
+   "own_fresh_count": 16,
+   "own_fresh_position": 53,
+   "own_fresh_presence": 25
+  },
+  "_pids": 218,
+  "_weights": {
+   "presence": 0.1953125,
+   "count": 0.125,
+   "color": 0.265625,
+   "position": 0.4140625
+  }
+ },
+ "blip3o": {
+  "selfspec_std": {
+   "est": -0.01950583442403491,
+   "ci95": [
+    -0.1174870533582709,
+    0.08103346638269472
+   ],
+   "ci90": [
+    -0.10277828342157325,
+    0.06516848862583166
+   ]
+  },
+  "closedloop_std": {
+   "est": -0.1011838207483789,
+   "ci95": [
+    -0.13182727024339805,
+    -0.07247390700370146
+   ],
+   "ci90": [
+    -0.12746288655498758,
+    -0.07662607176856744
+   ]
+  },
+  "self_fresh_std": {
+   "est": -0.010253942699598399,
+   "ci95": [
+    -0.08713580794690179,
+    0.050379149089855885
+   ],
+   "ci90": [
+    -0.07066696394866544,
+    0.042971556434720296
+   ]
+  },
+  "_n": {
+   "oth_ctx_color": 170,
+   "oth_ctx_count": 288,
+   "oth_ctx_position": 253,
+   "oth_ctx_presence": 164,
+   "oth_fresh_color": 169,
+   "oth_fresh_count": 288,
+   "oth_fresh_position": 253,
+   "oth_fresh_presence": 164,
+   "own_ctx_color": 7,
+   "own_ctx_count": 45,
+   "own_ctx_presence": 6,
+   "own_fresh_color": 7,
+   "own_fresh_count": 45,
+   "own_fresh_presence": 6
+  },
+  "_pids": 232,
+  "_weights": {
+   "presence": 0.10344827586206896,
+   "count": 0.7758620689655172,
+   "color": 0.1206896551724138
+  }
+ },
+ "janus1b": {
+  "selfspec_std": {
+   "est": 0.06830164933520706,
+   "ci95": [
+    -0.006114108149957008,
+    0.13825572598438926
+   ],
+   "ci90": [
+    0.0060370544196061285,
+    0.1277715791301089
+   ]
+  },
+  "closedloop_std": {
+   "est": -0.4210289220624798,
+   "ci95": [
+    -0.4671037942020981,
+    -0.3727346031644666
+   ],
+   "ci90": [
+    -0.4603505580767279,
+    -0.37846731956217916
+   ]
+  },
+  "self_fresh_std": {
+   "est": -0.035039790759866234,
+   "ci95": [
+    -0.09852931293404475,
+    0.024255304952565084
+   ],
+   "ci90": [
+    -0.08822150464881445,
+    0.01572862482528727
+   ]
+  },
+  "_n": {
+   "oth_ctx_color": 202,
+   "oth_ctx_count": 283,
+   "oth_ctx_position": 257,
+   "oth_ctx_presence": 205,
+   "oth_fresh_color": 202,
+   "oth_fresh_count": 283,
+   "oth_fresh_position": 257,
+   "oth_fresh_presence": 205,
+   "own_ctx_color": 68,
+   "own_ctx_count": 97,
+   "own_ctx_position": 35,
+   "own_ctx_presence": 75,
+   "own_fresh_color": 68,
+   "own_fresh_count": 97,
+   "own_fresh_position": 35,
+   "own_fresh_presence": 75
+  },
+  "_pids": 285,
+  "_weights": {
+   "presence": 0.2727272727272727,
+   "count": 0.3527272727272727,
+   "color": 0.24727272727272728,
+   "position": 0.12727272727272726
+  }
+ },
+ "janus7b": {
+  "selfspec_std": {
+   "est": -0.06545709846908476,
+   "ci95": [
+    -0.14223625880217775,
+    0.010192343497042004
+   ],
+   "ci90": [
+    -0.13106501049364502,
+    -0.0034523576275648097
+   ]
+  },
+  "closedloop_std": {
+   "est": -0.18868654793975495,
+   "ci95": [
+    -0.22419145958282016,
+    -0.15564197665422788
+   ],
+   "ci90": [
+    -0.21820745129801927,
+    -0.16192702026281358
+   ]
+  },
+  "self_fresh_std": {
+   "est": -0.0035763593663352793,
+   "ci95": [
+    -0.07685773255425767,
+    0.07700308303151994
+   ],
+   "ci90": [
+    -0.0671181348492398,
+    0.0652732937586679
+   ]
+  },
+  "_n": {
+   "oth_ctx_color": 220,
+   "oth_ctx_count": 327,
+   "oth_ctx_position": 273,
+   "oth_ctx_presence": 207,
+   "oth_fresh_color": 220,
+   "oth_fresh_count": 327,
+   "oth_fresh_position": 273,
+   "oth_fresh_presence": 207,
+   "own_ctx_color": 25,
+   "own_ctx_count": 103,
+   "own_ctx_position": 15,
+   "own_ctx_presence": 38,
+   "own_fresh_color": 25,
+   "own_fresh_count": 103,
+   "own_fresh_position": 15,
+   "own_fresh_presence": 38
+  },
+  "_pids": 264,
+  "_weights": {
+   "presence": 0.20994475138121546,
+   "count": 0.569060773480663,
+   "color": 0.13812154696132597,
+   "position": 0.08287292817679558
+  }
+ },
+ "lumina": {
+  "selfspec_std": {
+   "est": 0.06523844048927661,
+   "ci95": [
+    -0.06667194388652187,
+    0.22029856006657053
+   ],
+   "ci90": [
+    -0.04923033159194367,
+    0.18840218334275496
+   ]
+  },
+  "closedloop_std": {
+   "est": -0.04349931005449401,
+   "ci95": [
+    -0.06625330716475505,
+    -0.020854551289947985
+   ],
+   "ci90": [
+    -0.06179170428009023,
+    -0.02426450685947352
+   ]
+  },
+  "self_fresh_std": {
+   "est": -0.15757770657436215,
+   "ci95": [
+    -0.289148816385661,
+    -0.03342000488989877
+   ],
+   "ci90": [
+    -0.26878461369367956,
+    -0.045559378627471794
+   ]
+  },
+  "_n": {
+   "oth_ctx_color": 110,
+   "oth_ctx_count": 220,
+   "oth_ctx_position": 169,
+   "oth_ctx_presence": 110,
+   "oth_fresh_color": 110,
+   "oth_fresh_count": 220,
+   "oth_fresh_position": 169,
+   "oth_fresh_presence": 110,
+   "own_ctx_color": 7,
+   "own_ctx_count": 24,
+   "own_ctx_position": 4,
+   "own_ctx_presence": 11,
+   "own_fresh_color": 7,
+   "own_fresh_count": 24,
+   "own_fresh_position": 4,
+   "own_fresh_presence": 11
+  },
+  "_pids": 204,
+  "_weights": {
+   "presence": 0.2391304347826087,
+   "count": 0.5217391304347826,
+   "color": 0.15217391304347827,
+   "position": 0.08695652173913043
+  }
+ },
+ "omnigen2": {
+  "selfspec_std": {
+   "est": 0.14783842275106004,
+   "ci95": [
+    0.04770115317161639,
+    0.23933342554429854
+   ],
+   "ci90": [
+    0.060937191692158624,
+    0.22720050688909704
+   ]
+  },
+  "closedloop_std": {
+   "est": -0.3652297270988861,
+   "ci95": [
+    -0.4124382913260335,
+    -0.3183853047787987
+   ],
+   "ci90": [
+    -0.4050135614345364,
+    -0.3256674581600627
+   ]
+  },
+  "self_fresh_std": {
+   "est": -0.05423800173855169,
+   "ci95": [
+    -0.13204886192274978,
+    0.02047118667718783
+   ],
+   "ci90": [
+    -0.11896985679669375,
+    0.010055433186751835
+   ]
+  },
+  "_n": {
+   "oth_ctx_color": 158,
+   "oth_ctx_count": 305,
+   "oth_ctx_position": 226,
+   "oth_ctx_presence": 152,
+   "oth_fresh_color": 158,
+   "oth_fresh_count": 305,
+   "oth_fresh_position": 226,
+   "oth_fresh_presence": 152,
+   "own_ctx_color": 19,
+   "own_ctx_count": 28,
+   "own_ctx_position": 27,
+   "own_ctx_presence": 18,
+   "own_fresh_color": 19,
+   "own_fresh_count": 28,
+   "own_fresh_position": 27,
+   "own_fresh_presence": 18
+  },
+  "_pids": 232,
+  "_weights": {
+   "presence": 0.1956521739130435,
+   "count": 0.30434782608695654,
+   "color": 0.20652173913043478,
+   "position": 0.29347826086956524
+  }
+ },
+ "showo2_1.5b": {
+  "selfspec_std": {
+   "est": -0.03582146185945688,
+   "ci95": [
+    -0.09466539462777382,
+    0.020744125671058794
+   ],
+   "ci90": [
+    -0.0850644681809021,
+    0.011134868944763515
+   ]
+  },
+  "closedloop_std": {
+   "est": -0.3192081239393597,
+   "ci95": [
+    -0.3622616844213911,
+    -0.27401587097813795
+   ],
+   "ci90": [
+    -0.355516436704416,
+    -0.28262844969525464
+   ]
+  },
+  "self_fresh_std": {
+   "est": -0.07692491904962233,
+   "ci95": [
+    -0.13521998648378877,
+    -0.021661098203008742
+   ],
+   "ci90": [
+    -0.1280268005192884,
+    -0.030342520685037355
+   ]
+  },
+  "_n": {
+   "oth_ctx_color": 178,
+   "oth_ctx_count": 317,
+   "oth_ctx_position": 204,
+   "oth_ctx_presence": 185,
+   "oth_fresh_color": 178,
+   "oth_fresh_count": 317,
+   "oth_fresh_position": 204,
+   "oth_fresh_presence": 185,
+   "own_ctx_color": 92,
+   "own_ctx_count": 63,
+   "own_ctx_position": 88,
+   "own_ctx_presence": 95,
+   "own_fresh_color": 92,
+   "own_fresh_count": 63,
+   "own_fresh_position": 88,
+   "own_fresh_presence": 95
+  },
+  "_pids": 285,
+  "_weights": {
+   "presence": 0.28106508875739644,
+   "count": 0.1863905325443787,
+   "color": 0.27218934911242604,
+   "position": 0.2603550295857988
+  }
+ },
+ "showo2_7b": {
+  "selfspec_std": {
+   "est": -0.011859005509994663,
+   "ci95": [
+    -0.052826295454970945,
+    0.030943742967610457
+   ],
+   "ci90": [
+    -0.04644154476137383,
+    0.023352689220251997
+   ]
+  },
+  "closedloop_std": {
+   "est": -0.04888865804140724,
+   "ci95": [
+    -0.07109810726341097,
+    -0.03007316025805529
+   ],
+   "ci90": [
+    -0.06770599190497524,
+    -0.03327125563705454
+   ]
+  },
+  "self_fresh_std": {
+   "est": 0.07694050374084782,
+   "ci95": [
+    0.025775556140950975,
+    0.13021539026291612
+   ],
+   "ci90": [
+    0.03554597693970909,
+    0.12121820731785175
+   ]
+  },
+  "_n": {
+   "oth_ctx_color": 184,
+   "oth_ctx_count": 279,
+   "oth_ctx_position": 187,
+   "oth_ctx_presence": 193,
+   "oth_fresh_color": 184,
+   "oth_fresh_count": 279,
+   "oth_fresh_position": 187,
+   "oth_fresh_presence": 193,
+   "own_ctx_color": 85,
+   "own_ctx_count": 117,
+   "own_ctx_position": 154,
+   "own_ctx_presence": 72,
+   "own_fresh_color": 85,
+   "own_fresh_count": 117,
+   "own_fresh_position": 154,
+   "own_fresh_presence": 72
+  },
+  "_pids": 274,
+  "_weights": {
+   "presence": 0.16822429906542055,
+   "count": 0.2733644859813084,
+   "color": 0.1985981308411215,
+   "position": 0.3598130841121495
+  }
+ }
+}

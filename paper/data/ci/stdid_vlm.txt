@@ -1,0 +1,10 @@
+labels=vlm; type-standardised self-specific (weights = own type mix); 95% / 90% CI
+bagel        self-specific_std +0.02 [-0.06,+0.11]  90% lo -0.049  closed-loop_std(others) -0.506 [-0.55,-0.45]  self(fresh)_std +0.08 [+0.02,+0.14]  w={'presence': 0.18, 'count': 0.1, 'color': 0.36, 'position': 0.36}
+bagel_vae    self-specific_std +0.07 [-0.04,+0.16]  90% lo -0.020  closed-loop_std(others) 0.104 [0.05,0.16]  self(fresh)_std -0.01 [-0.08,+0.07]  w={'presence': 0.18, 'count': 0.1, 'color': 0.36, 'position': 0.36}
+blip3o       self-specific_std -0.02 [-0.11,+0.07]  90% lo -0.092  closed-loop_std(others) -0.107 [-0.13,-0.08]  self(fresh)_std -0.08 [-0.16,-0.00]  w={'presence': 0.22, 'count': 0.55, 'color': 0.23, 'position': 0.01}
+janus1b      self-specific_std +0.05 [-0.02,+0.11]  90% lo -0.009  closed-loop_std(others) -0.400 [-0.44,-0.35]  self(fresh)_std -0.00 [-0.06,+0.06]  w={'presence': 0.32, 'count': 0.34, 'color': 0.22, 'position': 0.13}
+janus7b      self-specific_std +0.02 [-0.05,+0.09]  90% lo -0.036  closed-loop_std(others) -0.182 [-0.21,-0.15]  self(fresh)_std -0.04 [-0.11,+0.03]  w={'presence': 0.27, 'count': 0.4, 'color': 0.24, 'position': 0.08}
+lumina       self-specific_std -0.04 [-0.16,+0.08]  90% lo -0.132  closed-loop_std(others) -0.080 [-0.11,-0.05]  self(fresh)_std -0.06 [-0.17,+0.04]  w={'presence': 0.22, 'count': 0.31, 'color': 0.3, 'position': 0.17}
+omnigen2     self-specific_std +0.14 [+0.06,+0.22]  90% lo +0.077  closed-loop_std(others) -0.361 [-0.40,-0.32]  self(fresh)_std -0.09 [-0.17,-0.01]  w={'presence': 0.2, 'count': 0.21, 'color': 0.32, 'position': 0.27}
+showo2_1.5b  self-specific_std -0.05 [-0.10,+0.00]  90% lo -0.093  closed-loop_std(others) -0.297 [-0.33,-0.26]  self(fresh)_std +0.00 [-0.06,+0.06]  w={'presence': 0.33, 'count': 0.17, 'color': 0.24, 'position': 0.26}
+showo2_7b    self-specific_std -0.02 [-0.06,+0.01]  90% lo -0.053  closed-loop_std(others) -0.047 [-0.07,-0.03]  self(fresh)_std +0.05 [-0.00,+0.10]  w={'presence': 0.26, 'count': 0.2, 'color': 0.24, 'position': 0.3}

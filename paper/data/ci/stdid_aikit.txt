@@ -1,0 +1,10 @@
+labels=aikit; type-standardised self-specific (weights = own type mix); 95% / 90% CI
+bagel        self-specific_std +0.09 [-0.00,+0.18]  90% lo +0.012  closed-loop_std(others) -0.594 [-0.65,-0.53]  self(fresh)_std +0.03 [-0.00,+0.07]  w={'presence': 0.2, 'count': 0.12, 'color': 0.27, 'position': 0.41}
+bagel_vae    self-specific_std +0.09 [-0.03,+0.21]  90% lo -0.007  closed-loop_std(others) 0.096 [0.03,0.16]  self(fresh)_std -0.07 [-0.17,+0.04]  w={'presence': 0.2, 'count': 0.12, 'color': 0.27, 'position': 0.41}
+blip3o       self-specific_std -0.02 [-0.12,+0.08]  90% lo -0.103  closed-loop_std(others) -0.101 [-0.13,-0.07]  self(fresh)_std -0.01 [-0.09,+0.05]  w={'presence': 0.1, 'count': 0.78, 'color': 0.12}
+janus1b      self-specific_std +0.07 [-0.01,+0.14]  90% lo +0.006  closed-loop_std(others) -0.421 [-0.47,-0.37]  self(fresh)_std -0.04 [-0.10,+0.02]  w={'presence': 0.27, 'count': 0.35, 'color': 0.25, 'position': 0.13}
+janus7b      self-specific_std -0.07 [-0.14,+0.01]  90% lo -0.131  closed-loop_std(others) -0.189 [-0.22,-0.16]  self(fresh)_std -0.00 [-0.08,+0.08]  w={'presence': 0.21, 'count': 0.57, 'color': 0.14, 'position': 0.08}
+lumina       self-specific_std +0.07 [-0.07,+0.22]  90% lo -0.049  closed-loop_std(others) -0.043 [-0.07,-0.02]  self(fresh)_std -0.16 [-0.29,-0.03]  w={'presence': 0.24, 'count': 0.52, 'color': 0.15, 'position': 0.09}
+omnigen2     self-specific_std +0.15 [+0.05,+0.24]  90% lo +0.061  closed-loop_std(others) -0.365 [-0.41,-0.32]  self(fresh)_std -0.05 [-0.13,+0.02]  w={'presence': 0.2, 'count': 0.3, 'color': 0.21, 'position': 0.29}
+showo2_1.5b  self-specific_std -0.04 [-0.09,+0.02]  90% lo -0.085  closed-loop_std(others) -0.319 [-0.36,-0.27]  self(fresh)_std -0.08 [-0.14,-0.02]  w={'presence': 0.28, 'count': 0.19, 'color': 0.27, 'position': 0.26}
+showo2_7b    self-specific_std -0.01 [-0.05,+0.03]  90% lo -0.046  closed-loop_std(others) -0.049 [-0.07,-0.03]  self(fresh)_std +0.08 [+0.03,+0.13]  w={'presence': 0.17, 'count': 0.27, 'color': 0.2, 'position': 0.36}

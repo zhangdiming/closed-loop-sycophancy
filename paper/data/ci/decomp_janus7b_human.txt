@@ -1,0 +1,8 @@
+labels=human; judge=janus7b; own=janus7b; others=['showo2_7b']; conditions=['fresh', 'ctx-assistant_nocaption', 'ctx', 'ctx-user_prompt', 'ctx-caption_inline']; matched across conditions
+condition                             own detection         Δ own vs fresh       others detection      Δ others vs fresh   FA own   FA oth
+fresh                        0.731 [0.64,0.81]                      - 0.622 [0.56,0.68]                      -    0.001    0.005
+ctx-assistant_nocaption      0.737 [0.65,0.82] +0.01 [-0.06,+0.07] 0.613 [0.55,0.68] -0.01 [-0.04,+0.02]    0.003    0.005
+ctx                          0.522 [0.43,0.62] -0.21 [-0.31,-0.11] 0.389 [0.32,0.46] -0.23 [-0.29,-0.18]    0.003    0.004
+ctx-user_prompt              0.462 [0.37,0.56] -0.27 [-0.36,-0.18] 0.324 [0.26,0.39] -0.30 [-0.36,-0.24]    0.001    0.002
+ctx-caption_inline           0.048 [0.02,0.09] -0.68 [-0.76,-0.59] 0.152 [0.10,0.20] -0.47 [-0.53,-0.41]    0.000    0.001
+n: {'oth_ctx-assistant_nocaption_viol': 429, 'oth_ctx-caption_inline_viol': 429, 'oth_ctx-user_prompt_viol': 429, 'oth_ctx_viol': 429, 'oth_fresh_viol': 429, 'own_ctx-assistant_nocaption_viol': 186, 'own_ctx-caption_inline_viol': 186, 'own_ctx-user_prompt_viol': 186, 'own_ctx_viol': 186, 'own_fresh_viol': 186}

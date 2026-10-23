@@ -1,0 +1,74 @@
+{
+ "bagel": {
+  "det_fresh": 0.8988269794721407,
+  "det_closed": 0.28885630498533726,
+  "det_closed_matched": 0.6459402978874906,
+  "det_closed_matched_sd": 0.0496080835505651,
+  "fa_fresh": 0.012504301938740392,
+  "fa_closed_matched": 0.01376477244423539,
+  "n_viol": 682
+ },
+ "omnigen2": {
+  "det_fresh": 0.8746478873239436,
+  "det_closed": 0.46056338028169014,
+  "det_closed_matched": 0.7645277421515692,
+  "det_closed_matched_sd": 0.038314803032930056,
+  "fa_fresh": 0.027316965273169652,
+  "fa_closed_matched": 0.028991839494423587,
+  "n_viol": 710
+ },
+ "janus1b": {
+  "det_fresh": 0.7112676056338029,
+  "det_closed": 0.30422535211267604,
+  "det_closed_matched": 0.4751267263608163,
+  "det_closed_matched_sd": 0.04546887150828475,
+  "fa_fresh": 0.01355206847360913,
+  "fa_closed_matched": 0.014139823960105397,
+  "n_viol": 710
+ },
+ "showo2_1.5b": {
+  "det_fresh": 0.5661971830985916,
+  "det_closed": 0.21971830985915494,
+  "det_closed_matched": 0.41624562265920295,
+  "det_closed_matched_sd": 0.052326274185328966,
+  "fa_fresh": 0.010917030567685589,
+  "fa_closed_matched": 0.010640537089973175,
+  "n_viol": 710
+ },
+ "janus7b": {
+  "det_fresh": 0.6106870229007634,
+  "det_closed": 0.3606870229007634,
+  "det_closed_matched": 0.4706293493301854,
+  "det_closed_matched_sd": 0.06691803285036746,
+  "fa_fresh": 0.007067137809187279,
+  "fa_closed_matched": 0.007872649421768066,
+  "n_viol": 524
+ },
+ "lumina": {
+  "det_fresh": 0.8760563380281691,
+  "det_closed": 0.7915492957746478,
+  "det_closed_matched": 0.8731544091966876,
+  "det_closed_matched_sd": 0.022608992813631434,
+  "fa_fresh": 0.3139792081397921,
+  "fa_closed_matched": 0.31799479753546683,
+  "n_viol": 710
+ },
+ "blip3o": {
+  "det_fresh": 0.9462517680339463,
+  "det_closed": 0.8826025459688827,
+  "det_closed_matched": 0.9083500521407549,
+  "det_closed_matched_sd": 0.016885458448955205,
+  "fa_fresh": 0.0326644370122631,
+  "fa_closed_matched": 0.03359032801336967,
+  "n_viol": 707
+ },
+ "showo2_7b": {
+  "det_fresh": 0.8010752688172043,
+  "det_closed": 0.7634408602150538,
+  "det_closed_matched": 0.7767476936559292,
+  "det_closed_matched_sd": 0.041590891604622524,
+  "fa_fresh": 0.004586199708150928,
+  "fa_closed_matched": 0.005262063782377379,
+  "n_viol": 186
+ }
+}

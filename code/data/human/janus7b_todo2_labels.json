@@ -1,0 +1,119 @@
+{
+ "gen": "janus7b",
+ "source": "runs/human/janus7b_todo_flagged.json (index order)",
+ "source_sha256": "85de4f1e802950a42b0a7783cc6298cd8573e96a8baeddcb821b3f1da983558c",
+ "annotator": "second annotator (independent, blind)",
+ "annotation_type": "human_blind",
+ "tool": "labeling-kit/blind/label.html (original-resolution images, no prior labels shown)",
+ "exported_at": "2026-10-15T06:51:20.419Z",
+ "sampling": "kit positions after the first annotator's 301 (seed-2026 shuffle); the export also carried the first annotator's labels from the same browser, removed here",
+ "labels": {
+  "0": "violated",
+  "1": "satisfied",
+  "8": "violated",
+  "11": "violated",
+  "13": "violated",
+  "19": "violated",
+  "22": "violated",
+  "24": "satisfied",
+  "26": "violated",
+  "31": "violated",
+  "32": "violated",
+  "34": "satisfied",
+  "35": "satisfied",
+  "36": "satisfied",
+  "37": "satisfied",
+  "40": "satisfied",
+  "42": "violated",
+  "47": "violated",
+  "53": "violated",
+  "54": "violated",
+  "59": "satisfied"
+ },
+ "timing": {
+  "0": {
+   "ms": 2345,
+   "at": "2026-10-15T06:50:41.740Z"
+  },
+  "1": {
+   "ms": 2927,
+   "at": "2026-10-15T06:43:07.059Z"
+  },
+  "8": {
+   "ms": 673,
+   "at": "2026-10-15T06:51:19.105Z"
+  },
+  "11": {
+   "ms": 1491,
+   "at": "2026-10-15T06:48:25.690Z"
+  },
+  "13": {
+   "ms": 3708,
+   "at": "2026-10-15T06:45:14.443Z"
+  },
+  "19": {
+   "ms": 3369,
+   "at": "2026-10-15T06:48:49.688Z"
+  },
+  "22": {
+   "ms": 1251,
+   "at": "2026-10-15T06:34:50.853Z"
+  },
+  "24": {
+   "ms": 3327,
+   "at": "2026-10-15T06:44:48.623Z"
+  },
+  "26": {
+   "ms": 2752,
+   "at": "2026-10-15T06:37:42.003Z"
+  },
+  "31": {
+   "ms": 2549,
+   "at": "2026-10-15T06:49:56.136Z"
+  },
+  "32": {
+   "ms": 1639,
+   "at": "2026-10-15T06:48:33.261Z"
+  },
+  "34": {
+   "ms": 3431,
+   "at": "2026-10-15T06:37:01.280Z"
+  },
+  "35": {
+   "ms": 4123,
+   "at": "2026-10-15T06:42:39.389Z"
+  },
+  "36": {
+   "ms": 1997,
+   "at": "2026-10-15T06:46:25.113Z"
+  },
+  "37": {
+   "ms": 5117,
+   "at": "2026-10-15T06:35:08.489Z"
+  },
+  "40": {
+   "ms": 4178,
+   "at": "2026-10-15T06:47:52.748Z"
+  },
+  "42": {
+   "ms": 4062,
+   "at": "2026-10-15T06:40:50.462Z"
+  },
+  "47": {
+   "ms": 1463,
+   "at": "2026-10-15T06:43:43.551Z"
+  },
+  "53": {
+   "ms": 2287,
+   "at": "2026-10-15T06:40:42.734Z"
+  },
+  "54": {
+   "ms": 4607,
+   "at": "2026-10-15T06:40:57.546Z"
+  },
+  "59": {
+   "ms": 4748,
+   "at": "2026-10-15T06:39:35.033Z"
+  }
+ }
+}

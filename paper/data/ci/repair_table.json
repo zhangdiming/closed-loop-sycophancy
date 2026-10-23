@@ -1,0 +1,102 @@
+{
+ "bagel": {
+  "n": 280,
+  "start_all_ok": 0.7428571428571429,
+  "start_fact_acc": 0.9080357142857143,
+  "runs": {
+   "bagel__bagel": {
+    "all_ok": 0.9071428571428571,
+    "fact_acc": 0.9708333333333332
+   },
+   "bagel__bagel__ctx": {
+    "all_ok": 0.825,
+    "fact_acc": 0.9386904761904763
+   },
+   "bagel__bagel__ctx_dq": {
+    "all_ok": 0.8107142857142857,
+    "fact_acc": 0.930654761904762
+   },
+   "bagel__bagel__ctx_dqt": {
+    "all_ok": 0.8071428571428572,
+    "fact_acc": 0.9300595238095237
+   },
+   "bagel__bagel__ctx_orig": {
+    "all_ok": 0.8357142857142857,
+    "fact_acc": 0.9410714285714286
+   },
+   "bagel__bagel__ctx_thr": {
+    "all_ok": 0.8821428571428571,
+    "fact_acc": 0.9598214285714286
+   },
+   "bagel__bagel_dq": {
+    "all_ok": 0.9035714285714286,
+    "fact_acc": 0.9675595238095239
+   },
+   "bagel__bagel_dqt": {
+    "all_ok": 0.8857142857142857,
+    "fact_acc": 0.9613095238095238
+   }
+  }
+ },
+ "janus7b": {
+  "n": 280,
+  "start_all_ok": 0.8178571428571428,
+  "start_fact_acc": 0.9193452380952382,
+  "runs": {
+   "janus7b__janus7b": {
+    "all_ok": 0.9,
+    "fact_acc": 0.9633928571428572
+   },
+   "janus7b__janus7b__ctx": {
+    "all_ok": 0.875,
+    "fact_acc": 0.9508928571428571
+   },
+   "janus7b__janus7b__ctx_dqt": {
+    "all_ok": 0.8464285714285714,
+    "fact_acc": 0.9357142857142857
+   },
+   "janus7b__janus7b_dqt": {
+    "all_ok": 0.8642857142857143,
+    "fact_acc": 0.9425595238095237
+   },
+   "janus7b__showo2_7b__staged": {
+    "all_ok": 0.9142857142857143,
+    "fact_acc": 0.9678571428571429
+   }
+  }
+ },
+ "omnigen2": {
+  "n": 280,
+  "start_all_ok": 0.7964285714285714,
+  "start_fact_acc": 0.9190476190476192,
+  "runs": {
+   "omnigen2__omnigen2__ctx_dqt": {
+    "all_ok": 0.8428571428571429,
+    "fact_acc": 0.9363095238095239
+   },
+   "omnigen2__omnigen2_dqt": {
+    "all_ok": 0.9,
+    "fact_acc": 0.963095238095238
+   }
+  }
+ },
+ "showo2_7b": {
+  "n": 280,
+  "start_all_ok": 0.5642857142857143,
+  "start_fact_acc": 0.818452380952381,
+  "runs": {
+   "showo2_7b__janus7b__staged": {
+    "all_ok": 0.6857142857142857,
+    "fact_acc": 0.8794642857142857
+   },
+   "showo2_7b__showo2_7b": {
+    "all_ok": 0.7714285714285715,
+    "fact_acc": 0.9196428571428571
+   },
+   "showo2_7b__showo2_7b__ctx": {
+    "all_ok": 0.75,
+    "fact_acc": 0.9026785714285714
+   }
+  }
+ }
+}

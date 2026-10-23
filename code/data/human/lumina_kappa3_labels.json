@@ -1,0 +1,58 @@
+{
+ "gen": "lumina",
+ "source": "lumina_todo_flagged.json (index order)",
+ "source_sha256": "28ce197efb37e1eba629176dd49f2b7c0b4662d599db1567d3d9fb8b60df0fb9",
+ "annotator": "person3",
+ "annotation_type": "human_blind_second",
+ "tool": "labeling-kit/kappa/label.html (original-resolution images, no prior labels shown)",
+ "exported_at": "2026-10-15T10:44:10.378Z",
+ "labels": {
+  "0": "violated",
+  "2": "violated",
+  "3": "violated",
+  "4": "violated",
+  "5": "violated",
+  "7": "satisfied",
+  "8": "satisfied",
+  "9": "satisfied",
+  "10": "satisfied"
+ },
+ "timing": {
+  "0": {
+   "ms": 891,
+   "at": "2026-10-15T10:42:26.462Z"
+  },
+  "2": {
+   "ms": 845,
+   "at": "2026-10-15T10:41:44.701Z"
+  },
+  "3": {
+   "ms": 978,
+   "at": "2026-10-15T10:37:37.001Z"
+  },
+  "4": {
+   "ms": 893,
+   "at": "2026-10-15T10:35:38.481Z"
+  },
+  "5": {
+   "ms": 1899,
+   "at": "2026-10-15T10:33:11.832Z"
+  },
+  "7": {
+   "ms": 1669,
+   "at": "2026-10-15T10:38:46.149Z"
+  },
+  "8": {
+   "ms": 1487,
+   "at": "2026-10-15T10:37:31.256Z"
+  },
+  "9": {
+   "ms": 1676,
+   "at": "2026-10-15T10:40:40.590Z"
+  },
+  "10": {
+   "ms": 2278,
+   "at": "2026-10-15T10:43:22.941Z"
+  }
+ }
+}

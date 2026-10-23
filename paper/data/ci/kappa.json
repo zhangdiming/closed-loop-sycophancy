@@ -1,0 +1,18 @@
+{
+ "n_items": 296,
+ "n_both": 275,
+ "kappa3": 0.7029626581627402,
+ "kappa_bin": 0.7712082262210797,
+ "n_bin": 267,
+ "agree3": 0.9236363636363636,
+ "confusion": {
+  "violated|violated": 225,
+  "satisfied|satisfied": 28,
+  "ambiguous|violated": 4,
+  "satisfied|violated": 14,
+  "ambiguous|satisfied": 1,
+  "violated|ambiguous": 1,
+  "ambiguous|ambiguous": 1,
+  "satisfied|ambiguous": 1
+ }
+}

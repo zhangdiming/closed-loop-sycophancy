@@ -1,0 +1,49 @@
+{
+ "gen": "blip3o",
+ "source": "runs/human/blip3o_todo_flagged.json (index order)",
+ "source_sha256": "7aa3527d632b7984945fcbbb4eb3cf0bdd0803ed42de9eeabb70d84c597da601",
+ "annotator": "author (blind pass)",
+ "annotation_type": "human_blind",
+ "tool": "labeling-kit/blind/label.html (original-resolution images, no prior labels shown)",
+ "exported_at": "2026-10-14T06:28:07.840Z",
+ "sampling": "first 301 positions of a seed-2026 shuffle of all 638 kit items (296 labelled)",
+ "labels": {
+  "1": "violated",
+  "2": "violated",
+  "3": "ambiguous",
+  "5": "satisfied",
+  "6": "satisfied",
+  "7": "satisfied",
+  "11": "satisfied"
+ },
+ "timing": {
+  "1": {
+   "ms": 6509,
+   "at": "2026-10-14T06:17:03.127Z"
+  },
+  "2": {
+   "ms": 5782,
+   "at": "2026-10-14T06:09:33.708Z"
+  },
+  "3": {
+   "ms": 12484,
+   "at": "2026-10-14T06:14:47.911Z"
+  },
+  "5": {
+   "ms": 5066,
+   "at": "2026-10-14T06:22:37.099Z"
+  },
+  "6": {
+   "ms": 7619,
+   "at": "2026-10-14T06:22:09.363Z"
+  },
+  "7": {
+   "ms": 8221,
+   "at": "2026-10-14T06:22:59.706Z"
+  },
+  "11": {
+   "ms": 4770,
+   "at": "2026-10-14T06:04:20.526Z"
+  }
+ }
+}

@@ -1,0 +1,7 @@
+labels=vlm; judge=showo2_7b; own=showo2_7b; others=['janus7b', 'bagel']; conditions=['fresh', 'ctx', 'ctx-assistant_mismatch', 'ctx-assistant_cf']; matched across conditions
+condition                             own detection         Δ own vs fresh       others detection      Δ others vs fresh   FA own   FA oth
+fresh                        0.756 [0.71,0.80]                      - 0.705 [0.65,0.76]                      -    0.014    0.004
+ctx                          0.685 [0.63,0.74] -0.07 [-0.11,-0.04] 0.680 [0.62,0.74] -0.02 [-0.04,-0.01]    0.011    0.004
+ctx-assistant_mismatch       0.775 [0.74,0.81] +0.02 [+0.00,+0.04] 0.707 [0.65,0.76] +0.00 [-0.01,+0.01]    0.011    0.004
+ctx-assistant_cf             0.780 [0.74,0.82] +0.02 [+0.00,+0.05] 0.719 [0.66,0.78] +0.01 [-0.00,+0.03]    0.015    0.006
+n: {'oth_ctx-assistant_cf_viol': 441, 'oth_ctx-assistant_mismatch_viol': 441, 'oth_ctx_viol': 441, 'oth_fresh_viol': 441, 'own_ctx-assistant_cf_viol': 667, 'own_ctx-assistant_mismatch_viol': 667, 'own_ctx_viol': 667, 'own_fresh_viol': 667}

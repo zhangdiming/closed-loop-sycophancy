@@ -1,0 +1,59 @@
+{
+ "gen": "lumina",
+ "source": "runs/human/lumina_todo_flagged.json (index order)",
+ "source_sha256": "28ce197efb37e1eba629176dd49f2b7c0b4662d599db1567d3d9fb8b60df0fb9",
+ "annotator": "author (blind pass)",
+ "annotation_type": "human_blind",
+ "tool": "labeling-kit/blind/label.html (original-resolution images, no prior labels shown)",
+ "exported_at": "2026-10-14T06:28:07.840Z",
+ "sampling": "first 301 positions of a seed-2026 shuffle of all 638 kit items (296 labelled)",
+ "labels": {
+  "0": "violated",
+  "2": "violated",
+  "3": "violated",
+  "4": "violated",
+  "5": "violated",
+  "7": "satisfied",
+  "8": "satisfied",
+  "9": "satisfied",
+  "10": "satisfied"
+ },
+ "timing": {
+  "0": {
+   "ms": 4298,
+   "at": "2026-10-14T06:23:49.323Z"
+  },
+  "2": {
+   "ms": 7915,
+   "at": "2026-10-14T06:21:12.956Z"
+  },
+  "3": {
+   "ms": 5263,
+   "at": "2026-10-14T06:09:05.637Z"
+  },
+  "4": {
+   "ms": 2814,
+   "at": "2026-10-14T06:03:18.933Z"
+  },
+  "5": {
+   "ms": 3598,
+   "at": "2026-10-14T05:48:21.128Z"
+  },
+  "7": {
+   "ms": 3946,
+   "at": "2026-10-14T06:12:43.880Z"
+  },
+  "8": {
+   "ms": 4953,
+   "at": "2026-10-14T06:08:47.708Z"
+  },
+  "9": {
+   "ms": 3603,
+   "at": "2026-10-14T06:17:56.052Z"
+  },
+  "10": {
+   "ms": 8317,
+   "at": "2026-10-14T06:26:14.389Z"
+  }
+ }
+}

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+code/runs/
+paper/tables/
+paper/figures/*.pdf
+hf-cache/

@@ -1,0 +1,10 @@
+labels=human; type-standardised self-specific (weights = own type mix); 95% / 90% CI
+bagel        self-specific_std +0.08 [-0.01,+0.17]  90% lo +0.004  closed-loop_std(others) -0.579 [-0.64,-0.51]  self(fresh)_std +0.03 [-0.02,+0.09]  w={'presence': 0.19, 'count': 0.11, 'color': 0.32, 'position': 0.38}
+bagel_vae    self-specific_std +0.08 [-0.03,+0.19]  90% lo -0.013  closed-loop_std(others) 0.111 [0.05,0.17]  self(fresh)_std -0.04 [-0.13,+0.05]  w={'presence': 0.19, 'count': 0.11, 'color': 0.32, 'position': 0.38}
+blip3o       self-specific_std -0.02 [-0.12,+0.07]  90% lo -0.106  closed-loop_std(others) -0.091 [-0.13,-0.06]  self(fresh)_std +0.00 [-0.07,+0.07]  w={'presence': 0.11, 'count': 0.74, 'color': 0.15}
+janus1b      self-specific_std +0.07 [-0.01,+0.14]  90% lo +0.005  closed-loop_std(others) -0.418 [-0.46,-0.37]  self(fresh)_std -0.03 [-0.09,+0.03]  w={'presence': 0.27, 'count': 0.35, 'color': 0.25, 'position': 0.13}
+janus7b      self-specific_std -0.04 [-0.13,+0.05]  90% lo -0.116  closed-loop_std(others) -0.173 [-0.21,-0.14]  self(fresh)_std -0.03 [-0.12,+0.07]  w={'presence': 0.19, 'count': 0.55, 'color': 0.17, 'position': 0.08}
+lumina       self-specific_std +0.02 [-0.11,+0.16]  90% lo -0.088  closed-loop_std(others) -0.059 [-0.09,-0.03]  self(fresh)_std -0.13 [-0.27,-0.00]  w={'presence': 0.21, 'count': 0.46, 'color': 0.25, 'position': 0.08}
+omnigen2     self-specific_std +0.18 [+0.08,+0.28]  90% lo +0.098  closed-loop_std(others) -0.407 [-0.45,-0.36]  self(fresh)_std -0.06 [-0.14,+0.01]  w={'presence': 0.21, 'count': 0.26, 'color': 0.28, 'position': 0.25}
+showo2_1.5b  self-specific_std -0.01 [-0.07,+0.05]  90% lo -0.056  closed-loop_std(others) -0.347 [-0.39,-0.30]  self(fresh)_std -0.06 [-0.12,-0.00]  w={'presence': 0.28, 'count': 0.19, 'color': 0.27, 'position': 0.26}
+showo2_7b    self-specific_std -0.03 [-0.07,+0.03]  90% lo -0.067  closed-loop_std(others) -0.040 [-0.07,-0.01]  self(fresh)_std +0.05 [-0.05,+0.14]  w={'presence': 0.23, 'count': 0.22, 'color': 0.24, 'position': 0.31}

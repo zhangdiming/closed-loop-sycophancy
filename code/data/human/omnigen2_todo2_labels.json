@@ -1,0 +1,154 @@
+{
+ "gen": "omnigen2",
+ "source": "runs/human/omnigen2_todo_flagged.json (index order)",
+ "source_sha256": "e5efdcc3e7fccbc543481a6b4bb55ebb7314da2af7fc3dc3225aa12353ab5d68",
+ "annotator": "second annotator (independent, blind)",
+ "annotation_type": "human_blind",
+ "tool": "labeling-kit/blind/label.html (original-resolution images, no prior labels shown)",
+ "exported_at": "2026-10-15T06:51:20.418Z",
+ "sampling": "kit positions after the first annotator's 301 (seed-2026 shuffle); the export also carried the first annotator's labels from the same browser, removed here",
+ "labels": {
+  "3": "violated",
+  "6": "violated",
+  "11": "violated",
+  "14": "violated",
+  "15": "violated",
+  "17": "violated",
+  "19": "violated",
+  "20": "violated",
+  "22": "violated",
+  "24": "satisfied",
+  "29": "violated",
+  "30": "violated",
+  "34": "violated",
+  "35": "violated",
+  "36": "violated",
+  "37": "violated",
+  "38": "violated",
+  "39": "violated",
+  "41": "violated",
+  "44": "violated",
+  "45": "violated",
+  "46": "violated",
+  "49": "violated",
+  "50": "violated",
+  "52": "violated",
+  "53": "violated",
+  "54": "violated",
+  "58": "violated"
+ },
+ "timing": {
+  "3": {
+   "ms": 2994,
+   "at": "2026-10-15T06:37:26.192Z"
+  },
+  "6": {
+   "ms": 1940,
+   "at": "2026-10-15T06:46:29.413Z"
+  },
+  "11": {
+   "ms": 2646,
+   "at": "2026-10-15T06:47:33.033Z"
+  },
+  "14": {
+   "ms": 3368,
+   "at": "2026-10-15T06:48:06.796Z"
+  },
+  "15": {
+   "ms": 3011,
+   "at": "2026-10-15T06:36:08.847Z"
+  },
+  "17": {
+   "ms": 8351,
+   "at": "2026-10-15T06:42:06.961Z"
+  },
+  "19": {
+   "ms": 4275,
+   "at": "2026-10-15T06:37:32.265Z"
+  },
+  "20": {
+   "ms": 3485,
+   "at": "2026-10-15T06:42:33.673Z"
+  },
+  "22": {
+   "ms": 4565,
+   "at": "2026-10-15T06:50:29.876Z"
+  },
+  "24": {
+   "ms": 5250,
+   "at": "2026-10-15T06:37:39.249Z"
+  },
+  "29": {
+   "ms": 1843,
+   "at": "2026-10-15T06:39:39.559Z"
+  },
+  "30": {
+   "ms": 5896,
+   "at": "2026-10-15T06:34:28.947Z"
+  },
+  "34": {
+   "ms": 1891,
+   "at": "2026-10-15T06:36:45.617Z"
+  },
+  "35": {
+   "ms": 2927,
+   "at": "2026-10-15T06:51:06.374Z"
+  },
+  "36": {
+   "ms": 2194,
+   "at": "2026-10-15T06:48:51.883Z"
+  },
+  "37": {
+   "ms": 3664,
+   "at": "2026-10-15T06:40:46.399Z"
+  },
+  "38": {
+   "ms": 4858,
+   "at": "2026-10-15T06:38:42.790Z"
+  },
+  "39": {
+   "ms": 7570,
+   "at": "2026-10-15T06:36:21.108Z"
+  },
+  "41": {
+   "ms": 4062,
+   "at": "2026-10-15T06:48:29.754Z"
+  },
+  "44": {
+   "ms": 1928,
+   "at": "2026-10-15T06:37:12.992Z"
+  },
+  "45": {
+   "ms": 2698,
+   "at": "2026-10-15T06:40:02.156Z"
+  },
+  "46": {
+   "ms": 1945,
+   "at": "2026-10-15T06:36:57.848Z"
+  },
+  "49": {
+   "ms": 1429,
+   "at": "2026-10-15T06:43:04.132Z"
+  },
+  "50": {
+   "ms": 4798,
+   "at": "2026-10-15T06:41:02.345Z"
+  },
+  "52": {
+   "ms": 1996,
+   "at": "2026-10-15T06:50:48.975Z"
+  },
+  "53": {
+   "ms": 1752,
+   "at": "2026-10-15T06:36:47.369Z"
+  },
+  "54": {
+   "ms": 2201,
+   "at": "2026-10-15T06:38:30.930Z"
+  },
+  "58": {
+   "ms": 1768,
+   "at": "2026-10-15T06:43:28.041Z"
+  }
+ }
+}

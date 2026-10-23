@@ -1,0 +1,20 @@
+bagel     native  n= 475 det 0.875 [0.81,0.94] FA 0.087
+bagel     fresh   n= 475 det 0.927 [0.86,0.98] FA 0.077 D@5 0.75 AUROC 0.969
+bagel     closed  n= 475 det 0.885 [0.81,0.95] FA 0.079 D@5 0.84 AUROC 0.967
+bagel     fresh - native detection +0.052 [+0.000,+0.106] discordant 6 vs 1, exact McNemar p=0.1250
+bagel     images 475 flawed 96 native parsed 1.00
+janus7b   native  n= 472 det 0.779 [0.67,0.88] FA 0.084
+janus7b   fresh   n= 472 det 0.882 [0.79,0.96] FA 0.050 D@5 0.93 AUROC 0.978
+janus7b   closed  n= 472 det 0.794 [0.69,0.89] FA 0.047 D@5 0.91 AUROC 0.981
+janus7b   fresh - native detection +0.103 [+0.030,+0.192] discordant 7 vs 0, exact McNemar p=0.0156
+janus7b   images 472 flawed 68 native parsed 1.00
+omnigen2  native  n= 478 det 0.842 [0.76,0.92] FA 0.075
+omnigen2  fresh   n= 478 det 0.908 [0.83,0.97] FA 0.050 D@5 0.92 AUROC 0.976
+omnigen2  closed  n= 478 det 0.895 [0.82,0.96] FA 0.057 D@5 0.86 AUROC 0.969
+omnigen2  fresh - native detection +0.066 [+0.014,+0.125] discordant 5 vs 0, exact McNemar p=0.0625
+omnigen2  images 478 flawed 76 native parsed 1.00
+all       native  n=1425 det 0.838 [0.78,0.89] FA 0.082
+all       fresh   n=1425 det 0.908 [0.86,0.95] FA 0.058 D@5 0.93 AUROC 0.974
+all       closed  n=1425 det 0.863 [0.81,0.91] FA 0.061 D@5 0.86 AUROC 0.972
+all       fresh - native detection +0.071 [+0.035,+0.110] discordant 18 vs 1, exact McNemar p=0.0001
+all       images 1425 flawed 240 native parsed 1.00

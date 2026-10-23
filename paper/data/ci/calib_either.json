@@ -1,0 +1,131 @@
+{
+ "BAGEL, GenEval facts": {
+  "fresh": {
+   "fully_correct": 0.8196428571428571,
+   "n": 560,
+   "first_rejected": 122
+  },
+  "closed": {
+   "fully_correct": 0.7321428571428571,
+   "n": 560,
+   "first_rejected": 59
+  },
+  "closed, transferred threshold": {
+   "fully_correct": 0.8,
+   "n": 560,
+   "first_rejected": 124
+  },
+  "thr_vs_fresh": {
+   "n": 560,
+   "est": -0.019642857142857142,
+   "ci95": [
+    -0.0375,
+    -0.0035714285714285713
+   ],
+   "disc": [
+    8,
+    19
+   ],
+   "p": 0.052238985896110535
+  },
+  "thr_vs_closed": {
+   "n": 560,
+   "est": 0.06785714285714285,
+   "ci95": [
+    0.04642857142857143,
+    0.09285714285714286
+   ],
+   "disc": [
+    39,
+    1
+   ],
+   "p": 7.457856554538012e-11
+  }
+ },
+ "BAGEL, ERASE questions": {
+  "fresh": {
+   "fully_correct": 0.7982142857142858,
+   "n": 560,
+   "first_rejected": 168
+  },
+  "closed": {
+   "fully_correct": 0.7303571428571428,
+   "n": 560,
+   "first_rejected": 57
+  },
+  "closed, transferred threshold": {
+   "fully_correct": 0.7696428571428572,
+   "n": 560,
+   "first_rejected": 188
+  },
+  "thr_vs_fresh": {
+   "n": 560,
+   "est": -0.02857142857142857,
+   "ci95": [
+    -0.055357142857142855,
+    -0.0017857142857142857
+   ],
+   "disc": [
+    19,
+    35
+   ],
+   "p": 0.0402235640957167
+  },
+  "thr_vs_closed": {
+   "n": 560,
+   "est": 0.039285714285714285,
+   "ci95": [
+    0.0125,
+    0.06607142857142857
+   ],
+   "disc": [
+    42,
+    20
+   ],
+   "p": 0.007148733833163067
+  }
+ },
+ "OmniGen2, ERASE questions": {
+  "fresh": {
+   "fully_correct": 0.7857142857142857,
+   "n": 560,
+   "first_rejected": 135
+  },
+  "closed": {
+   "fully_correct": 0.7321428571428571,
+   "n": 560,
+   "first_rejected": 55
+  },
+  "closed, transferred threshold": {
+   "fully_correct": 0.7357142857142858,
+   "n": 560,
+   "first_rejected": 129
+  },
+  "thr_vs_fresh": {
+   "n": 560,
+   "est": -0.05,
+   "ci95": [
+    -0.07321428571428572,
+    -0.02857142857142857
+   ],
+   "disc": [
+    6,
+    34
+   ],
+   "p": 8.364584573428147e-06
+  },
+  "thr_vs_closed": {
+   "n": 560,
+   "est": 0.0035714285714285713,
+   "ci95": [
+    -0.014285714285714285,
+    0.02142857142857143
+   ],
+   "disc": [
+    15,
+    13
+   ],
+   "p": 0.8505540192127228
+  }
+ }
+}

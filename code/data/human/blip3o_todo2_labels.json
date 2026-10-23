@@ -1,0 +1,39 @@
+{
+ "gen": "blip3o",
+ "source": "runs/human/blip3o_todo_flagged.json (index order)",
+ "source_sha256": "7aa3527d632b7984945fcbbb4eb3cf0bdd0803ed42de9eeabb70d84c597da601",
+ "annotator": "second annotator (independent, blind)",
+ "annotation_type": "human_blind",
+ "tool": "labeling-kit/blind/label.html (original-resolution images, no prior labels shown)",
+ "exported_at": "2026-10-15T06:51:20.419Z",
+ "sampling": "kit positions after the first annotator's 301 (seed-2026 shuffle); the export also carried the first annotator's labels from the same browser, removed here",
+ "labels": {
+  "0": "violated",
+  "4": "satisfied",
+  "8": "violated",
+  "9": "violated",
+  "10": "satisfied"
+ },
+ "timing": {
+  "0": {
+   "ms": 2485,
+   "at": "2026-10-15T06:45:16.929Z"
+  },
+  "4": {
+   "ms": 4448,
+   "at": "2026-10-15T06:51:10.823Z"
+  },
+  "8": {
+   "ms": 5431,
+   "at": "2026-10-15T06:36:32.055Z"
+  },
+  "9": {
+   "ms": 11444,
+   "at": "2026-10-15T06:35:37.723Z"
+  },
+  "10": {
+   "ms": 2326,
+   "at": "2026-10-15T06:38:06.339Z"
+  }
+ }
+}

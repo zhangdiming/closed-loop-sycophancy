@@ -1,6 +1,6 @@
 # Closed-Loop Sycophancy
 
-Code, labels, and analysis outputs for
+Code, labels, and analysis outputs (raw outputs and images: [Zenodo, doi:10.5281/zenodo.23600969](https://doi.org/10.5281/zenodo.23600969)) for
 
 > **Agreeable Rather Than Blind: Closed-Loop Sycophancy in Unified Multimodal Models**
 > Diming Zhang. Submitted to the International Journal of Computer Vision (special issue on Multimodal LLMs for Unified
@@ -47,7 +47,17 @@ The outputs are identical to the tables and figures of the submitted manuscript.
 
 The analyses read the per-fact judge outputs in `code/runs/judge/` (about 215 MB), the repair-loop traces in
 `code/runs/repair/`, and the generated images in `code/runs/gen/`. These are too large for this repository and are
-released separately (link to be added). With them in place, for example:
+archived on Zenodo, [doi:10.5281/zenodo.23600969](https://doi.org/10.5281/zenodo.23600969). Download the archives and
+unpack them inside `code/` (the paths start with `runs/`):
+
+```bash
+cd code
+for f in /path/to/*.tar.gz; do tar xzf "$f"; done
+cat /path/to/generated_images.tar.part-* | tar xf -
+cat /path/to/repair_loops.tar.part-* | tar xf -
+```
+
+With them in place, for example:
 
 ```bash
 cd code
